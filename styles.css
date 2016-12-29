@@ -1,3 +1,10 @@
+html, body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
 .someClass{
   background-color: red;
   width: 100px;
